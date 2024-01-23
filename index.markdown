@@ -42,6 +42,7 @@ Sessions are virtual with option for additional in-person lessons for New York
 City based clients.
 
 ## About
+![Cruz Valdez self portrait](uploads/sp.jpg)
 
 Cruz Valdez's work has been published in titles such as American Vogue, New York Times Style Magazine, AnOther, Luncheon, and New York Magazine. Valdez has lensed covers for Dazed, GQ, Vogue Japan, Purple, Interview Magazine and others.
 
