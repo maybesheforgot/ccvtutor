@@ -255,10 +255,20 @@
 }
 
 .tutoring {
+    border-bottom: 3px solid #000;
+    width: 100%;
 }
 
 .about {
+    width: 100%;
 }
 
 .contact {
+    border-top: 3px solid #000;
+    width: 100%;
+}
+
+.contact a, .contact a:hover, .contact a:active, .contact a:visited {
+    text-decoration: underline;
+    font-size: 28px;
 }
