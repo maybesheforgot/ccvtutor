@@ -19,20 +19,6 @@ carousels:
      - image: uploads/slider/image12.jpg
      - image: uploads/slider/image13.jpg
      - image: uploads/slider/image14.jpg
-     - image: uploads/slider/image15.jpg
-     - image: uploads/slider/image16.jpg
-     - image: uploads/slider/image17.jpg
-     - image: uploads/slider/image18.jpg
-     - image: uploads/slider/image19.jpg
-     - image: uploads/slider/image20.jpg
-     - image: uploads/slider/image21.jpg
-     - image: uploads/slider/image22.jpg
-     - image: uploads/slider/image23.jpg
-     - image: uploads/slider/image24.jpg
-     - image: uploads/slider/image25.jpg
-     - image: uploads/slider/image26.jpg
-     - image: uploads/slider/image27.jpg
-     - image: uploads/slider/image28.jpg
 ---
 ## Tutoring
 
