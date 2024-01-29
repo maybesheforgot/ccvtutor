@@ -36,7 +36,7 @@ $on-laptop:        800px !default;
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
-            .carousel__holder {width: 100%; position: relative; padding: 0 0 600px 0; margin: -10px 0 -25px 0;}
+            .carousel__holder {width: 100%; position: relative; padding: 0 0 450px 0; margin: 0;}
   }
 }
 
