@@ -18,7 +18,6 @@ carousels:
      - image: uploads/slider/image11.jpg
      - image: uploads/slider/image12.jpg
      - image: uploads/slider/image13.jpg
-     - image: uploads/slider/image14.jpg
 ---
 ## Tutoring
 
