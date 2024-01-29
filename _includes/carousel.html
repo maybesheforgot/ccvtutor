@@ -1,4 +1,4 @@
-{% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,Z" %}
+{% assign letterstring = "a,b,c,d,e,f,g,h,i,j,k,l,m,n" %}
 {% assign letters = letterstring | split: ',' %}
 {% assign number = include.number | minus: 1 %}
 <div class="carousel__holder">
@@ -47,6 +47,7 @@
   overflow: hidden;
   text-align: center;
   position: absolute;
+  z-index:0;
   padding: 0;
 }
 .carousel__controls,
