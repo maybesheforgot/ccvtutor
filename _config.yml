@@ -23,7 +23,7 @@ email: cruzvaldezphoto@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Professional photography tutoring sessions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ccvtutor.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 
